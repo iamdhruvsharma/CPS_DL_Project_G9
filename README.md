@@ -1,4 +1,7 @@
-# cps_dl_project_g9
-Repository to hold the code of the deep learning project
+# SEP 769: Cyber Physical System - Deep Learning - Project
 
-pip install -r /path/to/requirements.txt
+### Submitted By:
+#### Dhruv Sharma (400349850)
+#### Yogesh Karlekar (400487694)
+
+for installing the required <code>pip install -r /path/to/requirements.txt
