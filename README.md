@@ -1,13 +1,13 @@
 # SEP 769 - Cyber Physical System - Deep Learning - Project
 
-### Submitted By:
-#### Dhruv Sharma (400349850)
-#### Yogesh Karlekar (400487694)
+Submitted By:
+Dhruv Sharma (400349850)
+Yogesh Karlekar (400487694)
 
 For executing the code you need to run the cells sequentially in the ipython notebook file(s) present in the repository.
 
 You can run the cells of the notebook(s) by two methods:
-1. Google Colab (Recommended)
+#### 1. Google Colab (Recommended)
 2. Locally
 
 #### 1. Google Colab (Recommended)
