@@ -26,4 +26,4 @@ You can run the cells of the notebook(s) by two methods:
 5. Update the path to the dataset in the notebook.
 6. Execute the cell sequentially.
 
-Note: If required, install the required packages by executing <code> pip install -r /path/to/requirements.txt </code>
+Note: If required, install the required packages by executing <code> pip install -r /path/to/requirements.txt </code> in the terminal/shell.
